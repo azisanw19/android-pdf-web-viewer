@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_search"
+        android:contentDescription="Cari"
+        android:icon="@drawable/ic_search"
+        android:title="Cari"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_jump_page"
+        android:contentDescription="Jump to Page"
+        android:icon="@drawable/ic_jump_page"
+        android:title="Jump to Page"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_show_sidebar"
+        android:title="Sidebar"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/menu_vertical_scrolling"
+        android:title="Vertical Scrolling"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_book_flip"
+        android:title="Book Flip"
+        app:showAsAction="never" />
+
+
+</menu>

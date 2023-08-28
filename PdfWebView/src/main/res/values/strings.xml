@@ -1,0 +1,3 @@
+<resources>
+    <string name="error_while_opening">Error encountered trying to open content</string>
+</resources>
