@@ -76,7 +76,7 @@ afterEvaluate {
 
                 groupId = "com.github.azisanw19"
                 artifactId = "pdfwebview"
-                version = "0.0.1-alpha02"
+                version = "1.0.0"
 
             }
         }
